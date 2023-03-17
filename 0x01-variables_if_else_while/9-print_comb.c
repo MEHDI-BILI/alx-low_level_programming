@@ -20,4 +20,5 @@ int main(void)
 		else
 			putchar(' ');
 	}
+	return (0);
 }
