@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * print_times_table - literally
@@ -8,5 +9,6 @@
 
 void print_times_table(int n)
 {
-	printf('n')
+	if (n >= 15)
+		printf("n");
 }
